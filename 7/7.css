@@ -11,7 +11,7 @@ sub, sup {
 }
 
 div {
-	padding: 2px;
+	padding: 0 10px;
 	display: inline-block;
 	vertical-align: top;
 	border: 3px dashed #000;
